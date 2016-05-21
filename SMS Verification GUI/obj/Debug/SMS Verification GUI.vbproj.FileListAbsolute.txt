@@ -1,0 +1,33 @@
+C:\Users\Exidous\AppData\Local\Temporary Projects\SMS Verification GUI\bin\Debug\SMS Verification GUI.exe.config
+C:\Users\Exidous\AppData\Local\Temporary Projects\SMS Verification GUI\bin\Debug\SMS Verification GUI.exe
+C:\Users\Exidous\AppData\Local\Temporary Projects\SMS Verification GUI\bin\Debug\SMS Verification GUI.pdb
+C:\Users\Exidous\AppData\Local\Temporary Projects\SMS Verification GUI\bin\Debug\SMS Verification GUI.xml
+C:\Users\Exidous\AppData\Local\Temporary Projects\SMS Verification GUI\obj\Debug\SMS Verification GUI.vbprojResolveAssemblyReference.cache
+C:\Users\Exidous\AppData\Local\Temporary Projects\SMS Verification GUI\obj\Debug\SMS_Verification_GUI.Form1.resources
+C:\Users\Exidous\AppData\Local\Temporary Projects\SMS Verification GUI\obj\Debug\SMS_Verification_GUI.Resources.resources
+C:\Users\Exidous\AppData\Local\Temporary Projects\SMS Verification GUI\obj\Debug\SMS Verification GUI.vbproj.GenerateResource.Cache
+C:\Users\Exidous\AppData\Local\Temporary Projects\SMS Verification GUI\obj\Debug\SMS Verification GUI.exe
+C:\Users\Exidous\AppData\Local\Temporary Projects\SMS Verification GUI\obj\Debug\SMS Verification GUI.xml
+C:\Users\Exidous\AppData\Local\Temporary Projects\SMS Verification GUI\obj\Debug\SMS Verification GUI.pdb
+C:\Users\Exidous\Documents\Visual Studio 2015\Projects\SMS Verification GUI\SMS Verification GUI\bin\Debug\SMS Verification GUI.exe.config
+C:\Users\Exidous\Documents\Visual Studio 2015\Projects\SMS Verification GUI\SMS Verification GUI\obj\Debug\SMS Verification GUI.exe
+C:\Users\Exidous\Documents\Visual Studio 2015\Projects\SMS Verification GUI\SMS Verification GUI\obj\Debug\SMS Verification GUI.xml
+C:\Users\Exidous\Documents\Visual Studio 2015\Projects\SMS Verification GUI\SMS Verification GUI\obj\Debug\SMS Verification GUI.pdb
+C:\Users\Exidous\Documents\Visual Studio 2015\Projects\SMS Verification GUI\SMS Verification GUI\bin\Debug\SMS Verification GUI.exe
+C:\Users\Exidous\Documents\Visual Studio 2015\Projects\SMS Verification GUI\SMS Verification GUI\bin\Debug\SMS Verification GUI.pdb
+C:\Users\Exidous\Documents\Visual Studio 2015\Projects\SMS Verification GUI\SMS Verification GUI\bin\Debug\SMS Verification GUI.xml
+C:\Users\Exidous\Documents\Visual Studio 2015\Projects\SMS Verification GUI\SMS Verification GUI\obj\Debug\SMS Verification GUI.vbprojResolveAssemblyReference.cache
+C:\Users\Exidous\Documents\Visual Studio 2015\Projects\SMS Verification GUI\SMS Verification GUI\obj\Debug\SMS_Verification_GUI.Form1.resources
+C:\Users\Exidous\Documents\Visual Studio 2015\Projects\SMS Verification GUI\SMS Verification GUI\obj\Debug\SMS_Verification_GUI.Resources.resources
+C:\Users\Exidous\Documents\Visual Studio 2015\Projects\SMS Verification GUI\SMS Verification GUI\obj\Debug\SMS Verification GUI.vbproj.GenerateResource.Cache
+C:\Users\Exidous\Source\Repos\smsVerifier\SMS Verification GUI\bin\Debug\SMS Verification GUI.exe.config
+C:\Users\Exidous\Source\Repos\smsVerifier\SMS Verification GUI\obj\Debug\SMS Verification GUI.exe
+C:\Users\Exidous\Source\Repos\smsVerifier\SMS Verification GUI\obj\Debug\SMS Verification GUI.xml
+C:\Users\Exidous\Source\Repos\smsVerifier\SMS Verification GUI\obj\Debug\SMS Verification GUI.pdb
+C:\Users\Exidous\Source\Repos\smsVerifier\SMS Verification GUI\bin\Debug\SMS Verification GUI.exe
+C:\Users\Exidous\Source\Repos\smsVerifier\SMS Verification GUI\bin\Debug\SMS Verification GUI.pdb
+C:\Users\Exidous\Source\Repos\smsVerifier\SMS Verification GUI\bin\Debug\SMS Verification GUI.xml
+C:\Users\Exidous\Source\Repos\smsVerifier\SMS Verification GUI\obj\Debug\SMS Verification GUI.vbprojResolveAssemblyReference.cache
+C:\Users\Exidous\Source\Repos\smsVerifier\SMS Verification GUI\obj\Debug\SMS_Verification_GUI.Form1.resources
+C:\Users\Exidous\Source\Repos\smsVerifier\SMS Verification GUI\obj\Debug\SMS_Verification_GUI.Resources.resources
+C:\Users\Exidous\Source\Repos\smsVerifier\SMS Verification GUI\obj\Debug\SMS Verification GUI.vbproj.GenerateResource.Cache
